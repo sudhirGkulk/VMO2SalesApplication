@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sudhi\\source\\repos\\SalesApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0995C0A-5AE9-469E-B203-1B4FDE22C4FF}|SalesApplication\\SalesApplication.Web.csproj|c:\\users\\sudhi\\source\\repos\\salesapplication\\salesapplication\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0995C0A-5AE9-469E-B203-1B4FDE22C4FF}|SalesApplication\\SalesApplication.Web.csproj|solutionrelative:salesapplication\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0995C0A-5AE9-469E-B203-1B4FDE22C4FF}|SalesApplication\\SalesApplication.csproj|c:\\users\\sudhi\\source\\repos\\salesapplication\\salesapplication\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0995C0A-5AE9-469E-B203-1B4FDE22C4FF}|SalesApplication\\SalesApplication.csproj|solutionrelative:salesapplication\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0995C0A-5AE9-469E-B203-1B4FDE22C4FF}|SalesApplication\\SalesApplication.Web.csproj|c:\\users\\sudhi\\source\\repos\\salesapplication\\salesapplication\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0995C0A-5AE9-469E-B203-1B4FDE22C4FF}|SalesApplication\\SalesApplication.Web.csproj|solutionrelative:salesapplication\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0995C0A-5AE9-469E-B203-1B4FDE22C4FF}|SalesApplication\\SalesApplication.csproj|c:\\users\\sudhi\\source\\repos\\salesapplication\\salesapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0995C0A-5AE9-469E-B203-1B4FDE22C4FF}|SalesApplication\\SalesApplication.csproj|solutionrelative:salesapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0995C0A-5AE9-469E-B203-1B4FDE22C4FF}|SalesApplication\\SalesApplication.Web.csproj|c:\\users\\sudhi\\source\\repos\\salesapplication\\salesapplication\\models\\resultsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0995C0A-5AE9-469E-B203-1B4FDE22C4FF}|SalesApplication\\SalesApplication.Web.csproj|solutionrelative:salesapplication\\models\\resultsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0995C0A-5AE9-469E-B203-1B4FDE22C4FF}|SalesApplication\\SalesApplication.Web.csproj|c:\\users\\sudhi\\source\\repos\\salesapplication\\salesapplication\\services\\interfaces\\isalesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0995C0A-5AE9-469E-B203-1B4FDE22C4FF}|SalesApplication\\SalesApplication.Web.csproj|solutionrelative:salesapplication\\services\\interfaces\\isalesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\sudhi\\source\\repos\\SalesApplication\\SalesApplication\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "SalesApplication\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\sudhi\\source\\repos\\SalesApplication\\SalesApplication\\Models\\Sale.cs",
+              "RelativeToolTip": "SalesApplication\\Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:30:59.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sudhi\\source\\repos\\SalesApplication\\SalesApplication\\Models\\ResultsDTO.cs",
+              "RelativeDocumentMoniker": "SalesApplication\\Models\\ResultsDTO.cs",
+              "ToolTip": "C:\\Users\\sudhi\\source\\repos\\SalesApplication\\SalesApplication\\Models\\ResultsDTO.cs",
+              "RelativeToolTip": "SalesApplication\\Models\\ResultsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:07:17.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\sudhi\\source\\repos\\SalesApplication\\SalesApplication\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "SalesApplication\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\sudhi\\source\\repos\\SalesApplication\\SalesApplication\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "SalesApplication\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:56:27.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISalesService.cs",
+              "DocumentMoniker": "C:\\Users\\sudhi\\source\\repos\\SalesApplication\\SalesApplication\\Services\\Interfaces\\ISalesService.cs",
+              "RelativeDocumentMoniker": "SalesApplication\\Services\\Interfaces\\ISalesService.cs",
+              "ToolTip": "C:\\Users\\sudhi\\source\\repos\\SalesApplication\\SalesApplication\\Services\\Interfaces\\ISalesService.cs",
+              "RelativeToolTip": "SalesApplication\\Services\\Interfaces\\ISalesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:44:09.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sudhi\\source\\repos\\SalesApplication\\SalesApplication\\Views\\Sales\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesApplication\\Views\\Sales\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sudhi\\source\\repos\\SalesApplication\\SalesApplication\\Views\\Sales\\Index.cshtml",
+              "RelativeToolTip": "SalesApplication\\Views\\Sales\\Index.cshtml",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwF0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T10:35:29.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sudhi\\source\\repos\\SalesApplication\\SalesApplication\\Program.cs",
+              "RelativeDocumentMoniker": "SalesApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\sudhi\\source\\repos\\SalesApplication\\SalesApplication\\Program.cs",
+              "RelativeToolTip": "SalesApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:54:29.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

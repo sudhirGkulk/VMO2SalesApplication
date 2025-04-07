@@ -1,0 +1,12 @@
+C:\ApplicationCode\SalesApplication\SalesApplication.Core\bin\Debug\net8.0\SalesApplication.Models.deps.json
+C:\ApplicationCode\SalesApplication\SalesApplication.Core\bin\Debug\net8.0\SalesApplication.Models.dll
+C:\ApplicationCode\SalesApplication\SalesApplication.Core\bin\Debug\net8.0\SalesApplication.Models.pdb
+C:\ApplicationCode\SalesApplication\SalesApplication.Core\obj\Debug\net8.0\SalesApplication.Models.csproj.AssemblyReference.cache
+C:\ApplicationCode\SalesApplication\SalesApplication.Core\obj\Debug\net8.0\SalesApplication.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\ApplicationCode\SalesApplication\SalesApplication.Core\obj\Debug\net8.0\SalesApplication.Models.AssemblyInfoInputs.cache
+C:\ApplicationCode\SalesApplication\SalesApplication.Core\obj\Debug\net8.0\SalesApplication.Models.AssemblyInfo.cs
+C:\ApplicationCode\SalesApplication\SalesApplication.Core\obj\Debug\net8.0\SalesApplication.Models.csproj.CoreCompileInputs.cache
+C:\ApplicationCode\SalesApplication\SalesApplication.Core\obj\Debug\net8.0\SalesApplication.Models.dll
+C:\ApplicationCode\SalesApplication\SalesApplication.Core\obj\Debug\net8.0\refint\SalesApplication.Models.dll
+C:\ApplicationCode\SalesApplication\SalesApplication.Core\obj\Debug\net8.0\SalesApplication.Models.pdb
+C:\ApplicationCode\SalesApplication\SalesApplication.Core\obj\Debug\net8.0\ref\SalesApplication.Models.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "N6GLAtdEJ5Sqb2EKuzNY9IlSK+UUSiwf39nGTwuyVhQ=",
+  "Source": "SalesApplication.Web",
+  "BasePath": "_content/SalesApplication.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
