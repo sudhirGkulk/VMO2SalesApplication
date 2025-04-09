@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qnOxZSzqcpg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sudhi\\source\\repos\\SalesApplication\\SalesApplication.Services\\SalesApplication.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sudhi\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

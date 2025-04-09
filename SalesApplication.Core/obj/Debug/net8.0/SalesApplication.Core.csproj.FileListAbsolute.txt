@@ -1,0 +1,12 @@
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication.Core\bin\Debug\net8.0\SalesApplication.Core.deps.json
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication.Core\bin\Debug\net8.0\SalesApplication.Core.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication.Core\bin\Debug\net8.0\SalesApplication.Core.pdb
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication.Core\obj\Debug\net8.0\SalesApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication.Core\obj\Debug\net8.0\SalesApplication.Core.AssemblyInfoInputs.cache
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication.Core\obj\Debug\net8.0\SalesApplication.Core.AssemblyInfo.cs
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication.Core\obj\Debug\net8.0\SalesApplication.Core.csproj.CoreCompileInputs.cache
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication.Core\obj\Debug\net8.0\SalesApplication.Core.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication.Core\obj\Debug\net8.0\refint\SalesApplication.Core.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication.Core\obj\Debug\net8.0\SalesApplication.Core.pdb
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication.Core\obj\Debug\net8.0\ref\SalesApplication.Core.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication.Core\obj\Debug\net8.0\SalesApplication.Core.csproj.AssemblyReference.cache

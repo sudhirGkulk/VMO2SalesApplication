@@ -1,0 +1,591 @@
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_weatherdashboard.Tests
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\testhost.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Api.deps.json
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Api.runtimeconfig.json
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\spa.proxy.json
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\appsettings.Development.json
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\appsettings.json
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Api.exe
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\testhost.exe
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\weatherdashboard.Tests.deps.json
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\weatherdashboard.Tests.runtimeconfig.json
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\weatherdashboard.Tests.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\weatherdashboard.Tests.pdb
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Castle.Core.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Moq.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Serilog.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Api.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Application.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Core.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Infrastructure.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Application.pdb
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Api.pdb
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Core.pdb
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Infrastructure.pdb
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\obj\Debug\net8.0\weatherdashboard.Tests.csproj.AssemblyReference.cache
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\obj\Debug\net8.0\weatherdashboard.Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\obj\Debug\net8.0\weatherdashboard.Tests.AssemblyInfoInputs.cache
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\obj\Debug\net8.0\weatherdashboard.Tests.AssemblyInfo.cs
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\obj\Debug\net8.0\weatherdashboard.Tests.csproj.CoreCompileInputs.cache
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\obj\Debug\net8.0\weatherd.CB74FED8.Up2Date
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\obj\Debug\net8.0\weatherdashboard.Tests.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\obj\Debug\net8.0\refint\weatherdashboard.Tests.dll
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\obj\Debug\net8.0\weatherdashboard.Tests.pdb
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\obj\Debug\net8.0\weatherdashboard.Tests.genruntimeconfig.cache
+E:\adminNov\WeatherDashboard (1)\WeatherDashboard\WeatherDashboard\weatherdashboard.Tests\obj\Debug\net8.0\ref\weatherdashboard.Tests.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_WeatherDashboard.Tests
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Api.deps.json
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Api.runtimeconfig.json
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\spa.proxy.json
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\appsettings.Development.json
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\appsettings.json
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Api.exe
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\testhost.exe
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\testhost.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Tests.deps.json
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Tests.runtimeconfig.json
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Tests.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Tests.pdb
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Castle.Core.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Moq.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Serilog.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Api.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Application.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Core.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Infrastructure.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Application.pdb
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Api.pdb
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Core.pdb
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Infrastructure.pdb
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.csproj.AssemblyReference.cache
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.AssemblyInfoInputs.cache
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.AssemblyInfo.cs
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.csproj.CoreCompileInputs.cache
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\WeatherD.179BF4FF.Up2Date
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\refint\WeatherDashboard.Tests.dll
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.pdb
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.genruntimeconfig.cache
+D:\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\ref\WeatherDashboard.Tests.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_WeatherDashboard.Tests
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\appsettings.Development.json
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\appsettings.json
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\testhost.exe
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\testhost.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Api.deps.json
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Api.runtimeconfig.json
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\spa.proxy.json
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Api.staticwebassets.endpoints.json
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Api.exe
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Tests.deps.json
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Tests.runtimeconfig.json
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Tests.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Tests.pdb
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Castle.Core.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Moq.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Serilog.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Api.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Application.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Core.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Infrastructure.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Application.pdb
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Api.pdb
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Core.pdb
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\WeatherDashboard.Infrastructure.pdb
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.csproj.AssemblyReference.cache
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.AssemblyInfoInputs.cache
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.AssemblyInfo.cs
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.csproj.CoreCompileInputs.cache
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\WeatherD.179BF4FF.Up2Date
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\refint\WeatherDashboard.Tests.dll
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.pdb
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.genruntimeconfig.cache
+C:\Code\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard\WeatherDashboard.Tests\obj\Debug\net8.0\ref\WeatherDashboard.Tests.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_WeatherDashboard.Tests
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.csproj.AssemblyReference.cache
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.AssemblyInfoInputs.cache
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.AssemblyInfo.cs
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.csproj.CoreCompileInputs.cache
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\testhost.exe
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\testhost.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\WeatherDashboard.Tests.deps.json
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\WeatherDashboard.Tests.runtimeconfig.json
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\WeatherDashboard.Tests.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\WeatherDashboard.Tests.pdb
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\Moq.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\SalesApplication.Models.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\SalesApplication.Repository.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\SalesApplication.Services.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\SalesApplication.Models.pdb
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\SalesApplication.Services.pdb
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\SalesApplication.Repository.pdb
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\obj\Debug\net8.0\WeatherD.179BF4FF.Up2Date
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\obj\Debug\net8.0\refint\WeatherDashboard.Tests.dll
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.pdb
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\obj\Debug\net8.0\WeatherDashboard.Tests.genruntimeconfig.cache
+C:\Users\sudhi\source\repos\SalesApplication\SaleApplication.Tests\obj\Debug\net8.0\ref\WeatherDashboard.Tests.dll

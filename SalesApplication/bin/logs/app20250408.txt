@@ -1,0 +1,40 @@
+2025-04-08 13:10:47.213 +01:00 [WRN] The WebRootPath was not found: C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\wwwroot. Static files may be unavailable.
+2025-04-08 13:10:47.303 +01:00 [INF] User profile is available. Using 'C:\Users\sudhi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-08 13:10:48.719 +01:00 [INF] Now listening on: https://localhost:7289
+2025-04-08 13:10:48.720 +01:00 [INF] Now listening on: http://localhost:5283
+2025-04-08 13:10:48.786 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-08 13:10:48.786 +01:00 [INF] Hosting environment: Development
+2025-04-08 13:10:48.787 +01:00 [INF] Content root path: C:\Users\sudhi\source\repos\SalesApplication\SalesApplication
+2025-04-08 13:10:49.773 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7289/Sales/Index - null null
+2025-04-08 13:11:31.437 +01:00 [INF] Request received: GET /Sales/Index
+2025-04-08 13:11:31.444 +01:00 [INF] Request headers: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7289
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+Upgrade-Insecure-Requests: 1
+sec-ch-ua: "Chromium";v="134", "Not:A-Brand";v="24", "Google Chrome";v="134"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-site: none
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+
+2025-04-08 13:11:31.445 +01:00 [INF] Executing endpoint 'SalesApplication.Web.Controllers.SalesController.Index (SalesApplication.Web)'
+2025-04-08 13:11:31.472 +01:00 [INF] Route matched with {action = "Index", controller = "Sales"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller SalesApplication.Web.Controllers.SalesController (SalesApplication.Web).
+2025-04-08 13:11:32.510 +01:00 [INF] Executing ViewResult, running view Index.
+2025-04-08 13:11:32.572 +01:00 [INF] Executed ViewResult - view Index executed in 61.9379ms.
+2025-04-08 13:11:32.575 +01:00 [INF] Executed action SalesApplication.Web.Controllers.SalesController.Index (SalesApplication.Web) in 1102.3053ms
+2025-04-08 13:11:32.576 +01:00 [INF] Executed endpoint 'SalesApplication.Web.Controllers.SalesController.Index (SalesApplication.Web)'
+2025-04-08 13:11:32.577 +01:00 [INF] Response sent: 200
+2025-04-08 13:11:32.577 +01:00 [INF] Response headers: Content-Type: text/html; charset=utf-8
+Date: Tue, 08 Apr 2025 12:11:32 GMT
+Server: Kestrel
+
+2025-04-08 13:11:32.582 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7289/Sales/Index - 200 null text/html; charset=utf-8 42821.078ms
+2025-04-08 13:11:32.583 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7289/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-08 13:11:32.589 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7289/_framework/aspnetcore-browser-refresh.js - 200 16525 application/javascript; charset=utf-8 5.8272ms
+2025-04-08 13:11:32.621 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7289/_vs/browserLink - null null
+2025-04-08 13:11:32.667 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7289/_vs/browserLink - 200 null text/javascript; charset=UTF-8 47.262ms

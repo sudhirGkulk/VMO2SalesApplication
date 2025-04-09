@@ -1,0 +1,174 @@
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.csproj.AssemblyReference.cache
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.AssemblyInfoInputs.cache
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.AssemblyInfo.cs
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.csproj.CoreCompileInputs.cache
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\appsettings.json
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\SalesApplication.Web.staticwebassets.endpoints.json
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\SalesApplication.Web.exe
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\SalesApplication.Web.deps.json
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\SalesApplication.Web.runtimeconfig.json
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\SalesApplication.Web.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\SalesApplication.Web.pdb
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\scopedcss\bundle\SalesApplication.Web.styles.css
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\staticwebassets\msbuild.SalesApplication.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\staticwebassets\msbuild.SalesApplication.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.SalesApplication.Web.props
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SalesApplication.Web.props
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SalesApplication.Web.props
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\SalesApp.478B779A.Up2Date
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\refint\SalesApplication.Web.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.pdb
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.genruntimeconfig.cache
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\ref\SalesApplication.Web.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.RazorAssemblyInfo.cache
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.RazorAssemblyInfo.cs
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\SalesApplication.Models.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\SalesApplication.Services.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\SalesApplication.Models.pdb
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\SalesApplication.Services.pdb
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\SalesApplication.Repository.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\SalesApplication.Repository.pdb
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Serilog.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sudhi\source\repos\SalesApplication\SalesApplication\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\appsettings.json
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\SalesApplication.Web.staticwebassets.endpoints.json
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\SalesApplication.Web.exe
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\SalesApplication.Web.deps.json
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\SalesApplication.Web.runtimeconfig.json
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\SalesApplication.Web.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\SalesApplication.Web.pdb
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Serilog.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\SalesApplication.Models.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\SalesApplication.Repository.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\SalesApplication.Services.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\SalesApplication.Models.pdb
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\SalesApplication.Services.pdb
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\bin\Debug\net8.0\SalesApplication.Repository.pdb
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.csproj.AssemblyReference.cache
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.AssemblyInfoInputs.cache
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.AssemblyInfo.cs
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.csproj.CoreCompileInputs.cache
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.RazorAssemblyInfo.cache
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.RazorAssemblyInfo.cs
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\scopedcss\bundle\SalesApplication.Web.styles.css
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\staticwebassets\msbuild.SalesApplication.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\staticwebassets\msbuild.SalesApplication.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.SalesApplication.Web.props
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SalesApplication.Web.props
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SalesApplication.Web.props
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\SalesApp.478B779A.Up2Date
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\refint\SalesApplication.Web.dll
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.pdb
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\SalesApplication.Web.genruntimeconfig.cache
+C:\Users\sudhi\source\repos\SalesApplication - FInal\SalesApplication\obj\Debug\net8.0\ref\SalesApplication.Web.dll
